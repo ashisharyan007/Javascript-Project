@@ -55,7 +55,6 @@
     - OpenWeatherMap API
 
 ## Author
-
 Ashish Aryan  
 
 
