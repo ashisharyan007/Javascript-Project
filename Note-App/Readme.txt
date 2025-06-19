@@ -1,4 +1,4 @@
-# NOTES APP
+# NOTE APP
 
 ## Description
 This is a simple and responsive Notes App built using HTML, CSS, and JavaScript. 
